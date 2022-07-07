@@ -1,2 +1,4 @@
 # LURAstakepool.github.io
-LURA's official website
+
+LURA stake pool metadata.
+*Webpage in a near future.*
